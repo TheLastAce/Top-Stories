@@ -15,6 +15,7 @@
 		2FCBBA5523E09C02005B5904 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FCBBA5423E09C02005B5904 /* Assets.xcassets */; };
 		2FCBBA5823E09C02005B5904 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FCBBA5623E09C02005B5904 /* LaunchScreen.storyboard */; };
 		2FCBBA6023E09F95005B5904 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FCBBA5F23E09F95005B5904 /* SwiftyJSON.swift */; };
+		2FCBBA6223E48E46005B5904 /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FCBBA6123E48E46005B5904 /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2FCBBA5723E09C02005B5904 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FCBBA5923E09C02005B5904 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2FCBBA5F23E09F95005B5904 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		2FCBBA6123E48E46005B5904 /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2FCBBA4823E09BFF005B5904 /* AppDelegate.swift */,
 				2FCBBA4A23E09BFF005B5904 /* SceneDelegate.swift */,
 				2FCBBA4C23E09BFF005B5904 /* SourcesViewController.swift */,
+				2FCBBA6123E48E46005B5904 /* ArticlesViewController.swift */,
 				2FCBBA4E23E09BFF005B5904 /* Main.storyboard */,
 				2FCBBA5423E09C02005B5904 /* Assets.xcassets */,
 				2FCBBA5623E09C02005B5904 /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 				2FCBBA4D23E09BFF005B5904 /* SourcesViewController.swift in Sources */,
 				2FCBBA4923E09BFF005B5904 /* AppDelegate.swift in Sources */,
 				2FCBBA4B23E09BFF005B5904 /* SceneDelegate.swift in Sources */,
+				2FCBBA6223E48E46005B5904 /* ArticlesViewController.swift in Sources */,
 				2FCBBA6023E09F95005B5904 /* SwiftyJSON.swift in Sources */,
 				2FCBBA5323E09BFF005B5904 /* Top_Stories.xcdatamodeld in Sources */,
 			);
